@@ -1,0 +1,18 @@
+.dashboard-header {
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #adabab;
+    border-radius: 5px;
+    background: #fbfbfb;    
+}
+
+.inline-content {
+    float: left;
+    margin: 20px 10px 0px auto;
+}
+
+.bottom-line {
+    border-bottom: 1px solid #bbb3b3;
+    margin-bottom: 10px;
+    padding-bottom: 10px;    
+}
