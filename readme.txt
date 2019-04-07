@@ -29,12 +29,10 @@ Shortcode example:
                            brewery_id="1473" 
                            item_count="10" 
                            client_id="clientID123" 
+			   view_type="type1"
                            client_secret="clientsecretID123"]Spruce Beer Dashboard[/spruce_beer_dashboard]
 
-Demo:
 
-    https://dev.hellotimeoff.com/spruce-beer-dashboard/
-    
 == Installation ==
 
 1. In your WordPress admin panel, go to *Plugins > New Plugin*, search for **Spruce Beer Dashboard** and click "*Install now*"
